@@ -4,7 +4,6 @@ import XCTest
 final class CombineXAsyncTests: XCTestCase {
     
     func testForNormalExample() {
-        
         let exp = expectation(description: "")
         
         async {
