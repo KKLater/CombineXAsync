@@ -13,7 +13,7 @@
 * macOS 10.10 + / iOS 9.0 + / tvOS 9.0 + / watchOS 2.0 +
 * Swift 5.0+
 
-If your project is based on the system 'combine' framework, that is, the project environment is `macOS 10.15 + / iOS 10.0 + / tvOS 10.0 + / watchOS 6.0 + `, then you can choose to use [CombineAsync]( https://github.com/KKLater/CombineAsync ) framework. If your project uses the [OpenCombine](https://github.com/broadwaylamb/OpenCombine) framework, you can choose [OpenCombineAync](https://github.com/KKLater/OpenCombineAsync) framework.
+If your project is based on the system `Combine` framework, and the project environment is `macOS 10.15 + / iOS 10.0 + / tvOS 10.0 + / watchOS 6.0 + `, then you can choose to use [CombineAsync]( https://github.com/KKLater/CombineAsync ) framework. If your project uses the [OpenCombine](https://github.com/broadwaylamb/OpenCombine) framework, you can choose [OpenCombineAync](https://github.com/KKLater/OpenCombineAsync) framework.
 
 ## Installation
 
